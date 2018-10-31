@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:          replacer
 Version:       1.5.3
-Release:       1.2
+Release:       1.3
 Summary:       Replacer Maven Mojo
 Group:		Development/Java
 License:       MIT
