@@ -5,7 +5,7 @@ Release:       1.3
 Summary:       Replacer Maven Mojo
 Group:		Development/Java
 License:       MIT
-URL:           http://code.google.com/p/maven-replacer-plugin/
+URL:           https://code.google.com/p/maven-replacer-plugin/
 # svn export http://maven-replacer-plugin.googlecode.com/svn/tags/replacer-1.5.3/trunk/ replacer-1.5.3
 # tar cJf replacer-1.5.3.tar.xz replacer-1.5.3
 Source0:       %{name}-%{version}.tar.xz
